@@ -1,5 +1,6 @@
 # Beispiel Softwerkskammer Ruhrgebiet
-01.10.2019
+
+2019-10-01
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
